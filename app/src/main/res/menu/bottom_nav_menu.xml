@@ -9,7 +9,7 @@
         android:icon="@drawable/baseline_search_24"
         android:title="Search" />
     <item
-        android:id="@+id/shelves"
+        android:id="@+id/library"
         android:icon="@drawable/baseline_shelves_24"
         android:title="Library" />
     <item
