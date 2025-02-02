@@ -3,8 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="purple">#431358</color>
-    <color name="dark_purple">#1f001f</color>
-    <color name="yellow">#E7F00D</color>
-    <color name="dark_yellow">#b8ba0e</color>
+    <color name="grey">#666666</color>
+    <color name="dark_grey">#3b3b3b</color>
+    <color name="dark_black">#191919</color>
+    <color name="transparent_black">#40000000</color>
+    <color name="ivory">#FFFFF0</color>
 </resources>
